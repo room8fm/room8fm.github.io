@@ -1,15 +1,19 @@
 actors:
-  neko:
-    image_url: /images/actors/.png
-    name: neko
+  ryonkmr:
+    image_url: /images/actors/ryonkmr.jpg
+    name: RyoNkmr
     url: http://sns.example.com/hoge
   fab:
-    image_url: /images/actors/.png
+    image_url: /images/actors/fab.png
     name: ファブリーズ
     url: http://sns.example.com/hoge
   omega:
     image_url: /images/actors/.png
     name: omega
+    url: http://sns.example.com/hoge
+  watanuki:
+    image_url: /images/actors/.png
+    name: watanuki
     url: http://sns.example.com/hoge
 author: alice
 description: room8の住人によるpodcast
@@ -23,12 +27,12 @@ exclude:
   - vendor
 hashtag: room8fm
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: room8,separated,keywords
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: room8fm
+title: room8.fm
 url: https://room8fm.github.io
