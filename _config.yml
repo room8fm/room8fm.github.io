@@ -1,15 +1,19 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
+  neko:
+    image_url: /images/actors/.png
+    name: neko
+    url: http://sns.example.com/hoge
+  fab:
+    image_url: /images/actors/.png
+    name: ファブリーズ
+    url: http://sns.example.com/hoge
+  omega:
+    image_url: /images/actors/.png
+    name: omega
+    url: http://sns.example.com/hoge
 author: alice
-description: Example description
-description_long: Example long description
+description: room8の住人によるpodcast
+description_long: room8の住人によるpodcast。ゆるゆるとやっていくかんじ。
 email: info@example.com
 exclude:
   - Gemfile
@@ -26,5 +30,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: room8fm
+url: https://room8fm.github.io

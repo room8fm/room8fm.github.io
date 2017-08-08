@@ -1,3 +1,3 @@
-# Yattecast
+# room8fm
 
-https://r7kamura.github.io/yattecast/
+room8の住人によるpodcast
