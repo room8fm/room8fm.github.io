@@ -15,24 +15,24 @@ actors:
     image_url: /images/actors/ymmooot.jpg
     name: ymmooot
     url: https://twitter.com/ymmooot
-author: room8ers
+author: room8 members
 description: room8の住人によるpodcast
-description_long: room8の住人によるpodcast。ゆるゆるとやっていくかんじ。
-email: info@example.com
+description_long: Webエンジニアたちがそれっぽいお話をするpodcastです。
+email: room8.fm@gmail.com
 exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE.txt
   - README.md
   - vendor
-hashtag: room8fm
+hashtag: room8.fm
 itunes_podcast_url:
-keywords: room8,separated,keywords
+keywords: tech,technology,web,programming,markup,frontend,developer,development
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: room8fm
+title: room8.fm
 url: https://room8fm.github.io
