@@ -1,21 +1,21 @@
 actors:
   ryonkmr:
     image_url: /images/actors/ryonkmr.jpg
-    name: RyoNkmr
-    url: http://sns.example.com/hoge
-  fab:
-    image_url: /images/actors/fab.png
-    name: ファブリーズ
-    url: http://sns.example.com/hoge
+    name: Ryonkmr
+    url: https://twitter.com/RyoNkmr_
+  resessh:
+    image_url: /images/actors/resessh.jpg
+    name: resessh
+    url: https://twitter.com/resessh7
   omega:
-    image_url: /images/actors/.png
-    name: omega
-    url: http://sns.example.com/hoge
-  watanuki:
-    image_url: /images/actors/.png
-    name: watanuki
-    url: http://sns.example.com/hoge
-author: alice
+    image_url: /images/actors/omega.jpg
+    name: OMEGA
+    url: https://twitter.com/equal_001
+  ymmooot:
+    image_url: /images/actors/ymmooot.jpg
+    name: ymmooot
+    url: https://twitter.com/ymmooot
+author: room8ers
 description: room8の住人によるpodcast
 description_long: room8の住人によるpodcast。ゆるゆるとやっていくかんじ。
 email: info@example.com
@@ -34,5 +34,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: room8.fm
+title: room8fm
 url: https://room8fm.github.io
